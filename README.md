@@ -36,6 +36,9 @@ I code for FUN in any language including
 
 ## :rainbow: Have a good day!
 
+[![Yatin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yatinagg)](https://github.com/KnlnKS/leetcode-stats)
+
+
 
 <!--
 **yatinagg/yatinagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
