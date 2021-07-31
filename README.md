@@ -35,7 +35,7 @@ I code for FUN in any language including
 - 💬 Ask me about anything, I am happy to help anytime!
 
 ## :rainbow: Have a good day!
-
+<h1> LeetCode Stats (yatinagg) </h1>
 [![Yatin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yatinagg)](https://github.com/KnlnKS/leetcode-stats)
 
 
