@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatinagg&label=Profile%20views&color=0e75b6&style=flat" alt="yatinagg" /> </p>
 
 I code for FUN in any language including   
-| C/C++ | Python |
+| C/C++ | Python | Java |
  | :---: | :---: |
  
 
