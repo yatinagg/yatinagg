@@ -3,14 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatinagg&label=Profile%20views&color=0e75b6&style=flat" alt="yatinagg" /> </p>
 
 I code for FUN in any language including   
-| C/C++ | Python |
- | :---: | :---: |
+| C/C++ | Java | Kotlin | Python |
+ | :---: | :---: | | :---: | | :---: |
  
 
 ### Technologies & Frameworks I have worked with : 
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
